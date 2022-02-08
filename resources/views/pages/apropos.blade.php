@@ -12,12 +12,12 @@
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-7">
                 <div class="page-header-content text-white text-center pt-sm-5 pt-md-5 pt-lg-0">
-                    <h1 class="text-white mb-0">About Us</h1>
+                    <h1 class="text-white mb-0">A Propos De Nous</h1>
                     <div class="custom-breadcrumb">
                         <ol class="breadcrumb d-inline-block bg-transparent list-inline py-0">
-                            <li class="list-inline-item breadcrumb-item"><a href="#">Home</a></li>
-                            <li class="list-inline-item breadcrumb-item"><a href="#">Pages</a></li>
-                            <li class="list-inline-item breadcrumb-item active">About Us</li>
+                            <li class="list-inline-item breadcrumb-item"><a href="{{ url('/') }}">Accueil</a></li>
+                            {{-- <li class="list-inline-item breadcrumb-item"><a href="#">Pages</a></li> --}}
+                            <li class="list-inline-item breadcrumb-item active">A Propos de Nous</li>
                         </ol>
                     </div>
                 </div>

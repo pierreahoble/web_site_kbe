@@ -22,7 +22,7 @@
     <meta property="og:type" content="article"/>
 
     <!--title-->
-    <title>DigiMark Digital Marketing and Agency HTML Template</title>
+    <title> KBE Technologies </title>
 
     <!--favicon icon-->
     <link rel="icon" href="css/img/favicon.png" type="image/png" sizes="16x16">

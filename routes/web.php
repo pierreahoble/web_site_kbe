@@ -36,3 +36,15 @@ Route::view('detail-equipe/{id}', 'pages.equipe-detail');
 //contact view
 
 Route::view('nous-contacter', 'pages.contact');
+
+//Login
+Route::view('login','pages.login');
+
+//Register
+Route::view('register', 'pages.register');
+
+//projet
+Route::view('etude-de-cas', 'pages.projet');
+
+//Details etude de cas
+Route::view('etude-de-cas-detail/{id}', 'pages.projet-detail');

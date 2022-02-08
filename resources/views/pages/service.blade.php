@@ -100,7 +100,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="services-single p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm rounded white-bg">
                     <span class="ti-announcement icon-lg color-primary d-block mb-4"></span>
-                    <h5>Marketing Services</h5>
+                    <h5>Développement Web & Logiciel</h5>
                     <p class="mb-0">Progressively empower business "outside the box" thinking with resource-leveling
                         partnerships.</p>
                     <a href="{{ url('detail-service',['id'=>34]) }}" class="detail-link mt-4">Lire la suite <span
@@ -110,7 +110,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="services-single p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm rounded white-bg">
                     <span class="ti-light-bulb icon-lg color-primary d-block mb-4"></span>
-                    <h5>Total SEO Services</h5>
+                    <h5>Maintenance Informatique</h5>
                     <p class="mb-0">Progressively empower business "outside the box" thinking with resource-leveling
                         partnerships.</p>
                     <a href="{{ url('detail-service',['id'=>34]) }}" class="detail-link mt-4">Lire la suite <span
@@ -120,7 +120,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="services-single p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm rounded white-bg">
                     <span class="ti-headphone-alt icon-lg color-primary d-block mb-4"></span>
-                    <h5>24/7 Call Center Service</h5>
+                    <h5>Design et Infographie</h5>
                     <p class="mb-0">Progressively empower business "outside the box" thinking with resource-leveling
                         partnerships.</p>
                     <a href="{{ url('detail-service',['id'=>34]) }}" class="detail-link mt-4">Lire la suite <span
@@ -130,7 +130,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="services-single p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm rounded white-bg">
                     <span class="ti-bell icon-lg color-primary d-block mb-4"></span>
-                    <h5>Social Media Marketing</h5>
+                    <h5>Réseau & Câblage</h5>
                     <p class="mb-0">Progressively empower business "outside the box" thinking with resource-leveling
                         partnerships.</p>
                     <a href="{{ url('detail-service',['id'=>34]) }}" class="detail-link mt-4">Lire la suite <span
@@ -140,7 +140,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="services-single p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm rounded white-bg">
                     <span class="ti-briefcase icon-lg color-primary d-block mb-4"></span>
-                    <h5>Corporate Business</h5>
+                    <h5> FOrmation </h5>
                     <p class="mb-0">Progressively empower business "outside the box" thinking with resource-leveling
                         partnerships.</p>
                     <a href="{{ url('detail-service',['id'=>34]) }}" class="detail-link mt-4">Lire la suite <span
@@ -150,7 +150,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="services-single p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm rounded white-bg">
                     <span class="ti-vector icon-lg color-primary d-block mb-4"></span>
-                    <h5>Creative Consultancy</h5>
+                    <h5>Service de Voyage d'Etude </h5>
                     <p class="mb-0">Progressively empower business "outside the box" thinking with resource-leveling
                         partnerships.</p>
                     <a href="{{ url('detail-service',['id'=>34]) }}" class="detail-link mt-4">Lire la suite <span

@@ -39,7 +39,7 @@
     <!--start navbar-->
     <nav class="navbar navbar-expand-lg fixed-top white-bg">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="{{ url('/') }}">
                 <img src="{{ asset('css/img/logo-color_1.png') }}" alt="logo" class="img-fluid" style="height: 70px;" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -53,6 +53,7 @@
                     <li><a href="{{ url('a-propos') }}">A Propos</a></li>
                     <li><a href="{{ url('nos-services') }}">Nos Services</a></li>
                     <li><a href="{{ url('notre-equipe') }}">Notre Equipe</a></li>
+                    <li><a href="{{ url('etude-de-cas') }}">Etude de cas</a></li>
                     <li><a href="{{ url('nous-contacter') }}">Nous Contacté </a></li>
                     <li><a href="#" class="btn secondary-solid-btn check-btn">Appel Gratuit </a></li>
                 </ul>
